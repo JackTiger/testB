@@ -8,3 +8,7 @@ import (
 func OutPutB() {
    testD.OutPutD()
 }
+
+func test() {
+  fmt.Println("Hello, World!")
+}
