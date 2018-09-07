@@ -12,3 +12,7 @@ func OutPutB() {
 func test() {
   fmt.Println("Hello, World!")
 }
+
+func testD() {
+  fmt.Println("xxxxxxx")
+}
