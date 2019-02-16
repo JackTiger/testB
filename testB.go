@@ -14,5 +14,5 @@ func test() {
 }
 
 func testD() {
-  fmt.Println("2222222xxxxxxx111111")
+  fmt.Println("testgogc 2222222xxxxxxx111111")
 }
